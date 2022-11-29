@@ -1,0 +1,21 @@
+{
+  "name": "javascripts-estudos-oo",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "User.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonardotandeli/javascripts-estudos-oo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leonardotandeli/javascripts-estudos-oo/issues"
+  },
+  "homepage": "https://github.com/leonardotandeli/javascripts-estudos-oo#readme"
+}
